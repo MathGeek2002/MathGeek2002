@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm junior developer how love creating video games :video_game: :joystick:. I’m currently studing physics and IT science:desktop_computer: :atom:.
+I'm interested in programing, artificial intelligence :mechanical_arm: and creating animations in blender :cartwheeling:. With my friends we created amator game studio called Pickled Rabbit Games https://pickledrabbitgames.pl/?anchorElement=element_8&scrollMargin=75. 
+
+Here is list of my games:
+- First published game Border Slider  https://play.google.com/store/apps/details?id=com.PickledRabbitGames.com.unity.Border_Slider.mobile2D&hl=pl&gl=US
+- Game which I currently working    https://play.google.com/store/apps/details?id=com.Pickledrabbitgames.DungeonPlunder&hl=pl&gl=US
+- Game created on game programming championship "Cyberiada"  https://cyberiada.itch.io/into-the-void-and-beyond
+- Game created on one of the gamejames https://cyberiada.itch.io/conquer-space
+
+
 <!--
 **MathGeek2002/MathGeek2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
