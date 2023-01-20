@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm junior developer how love creating video games :video_game: :joystick:. I’m currently studing physics and IT science:desktop_computer: :atom:.
-I'm interested in programing, artificial intelligence :mechanical_arm: and creating animations in blender :cartwheeling:. With my friends we created amateur game studio called Pickled Rabbit Games which help for young people build their portfolio https://pickledrabbitgames.pl/?anchorElement=element_8&scrollMargin=75. 
+I'm a junior developer how love creating video games :video_game: :joystick:. I’m currently studying physics and IT science:desktop_computer: :atom:.
+I'm interested in programming, artificial intelligence :mechanical_arm: and creating animations in blender :cartwheeling:. With my friends we created an amateur game studio called Pickled Rabbit Games which help for young people build their portfolio https://pickledrabbitgames.pl/?anchorElement=element_8&scrollMargin=75. 
 
 Here is list of my games:
 - First published game Border Slider  https://play.google.com/store/apps/details?id=com.PickledRabbitGames.com.unity.Border_Slider.mobile2D&hl=pl&gl=US
